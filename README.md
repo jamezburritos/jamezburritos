@@ -10,7 +10,7 @@ I am a student with a passion for Computer Science
 
 ## About Me
 
-- I'm a student at *St John's College* in Grade 10
+- I'm a student at St John's College in Grade 10
 - I play a lot of games. My current favourites are *Risk of Rain 2* and *Titanfall 2*
 
 ## Contact Me
