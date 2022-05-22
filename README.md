@@ -5,8 +5,8 @@ I am a student with a passion for Computer Science
 ## Experience
 
 - I've been programming for 5+ years
-- I'm proficient in Python and Java
-- I'm learning Node.js, Web Development, and C++/C#
+- I'm can use Java, Python, C, and JS effectively.
+- I'm currently working on a CNN in C.
 
 ## About Me
 
