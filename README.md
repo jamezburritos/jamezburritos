@@ -5,7 +5,7 @@ I am a student with a passion for Computer Science
 ## Experience
 
 - I've been programming for 5+ years
-- I'm can use Java, Python, C, and JS effectively.
+- I'm can use Python, C, Rust and JS effectively.
 - I'm currently learning OpenGL in C
 
 ## About Me
